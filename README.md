@@ -1,4 +1,4 @@
-#Path-Planning-for-a-rigid-robot-using-A-Star-search-algorithm 
+# Path-Planning-for-a-rigid-robot-using-A-Star-search-algorithm 
 Code:
 - Code consists of: 'Generating an Obstacle Map, 'Movement in 5 Directions', 'Using Search Algorithm and Back Tracking' and 'Visualizing the Tracked Path'
 - The Search Algorithm used here is ' A Star Algorithm' to reach end goal and obtain the path.
